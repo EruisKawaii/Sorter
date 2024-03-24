@@ -1,502 +1,582 @@
 export const animeEndings = [
-    {
-        "name": "86 Eighty-Six - \"Avid\" by SawanoHiroyuki[nZk]:mizuki",
-        "videoId": "https://nl.catbox.video/4s6bt7.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Aharen-san wa Hakarenai - \"Kyori-kan\" by HaKoniwalily",
-        "videoId": "https://nl.catbox.video/n0r56e.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Aldnoah.Zero - \"aLIEz\" by SawanoHiroyuki[nZk]:mizuki",
-        "videoId": "https://nl.catbox.video/nmp4km.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Angel Beats! - \"Ichiban no Takaramono\" by LiSA",
-        "videoId": "https://nl.catbox.video/mrxgqk.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Asagao to Kase-san - \"Asu e no Tobira\" by Minami Takahashi & Ayane Sakura",
-        "videoId": "https://nl.catbox.video/jizmgi.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Bakemonogatari - \"Kimi no Shiranai Monogatari\" by supercell",
-        "videoId": "https://nl.catbox.video/52jn4w.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Black Jack - \"Kuroge Wagyuu Joshio Tanyaki 680 Yen\" by Ai Otsuka",
-        "videoId": "https://nl.catbox.video/bnt5f3.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Bleach - \"Aoi Tori\" by fumika",
-        "videoId": "https://nl.catbox.video/7i0ff5.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Bleach: Sennen Kessen-hen - \"Saihate\" by SennaRin",
-        "videoId": "https://nl.catbox.video/7iufmr.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "BNA - \"NIGHT RUNNING\" by AAAMYYY",
-        "videoId": "https://nl.catbox.video/6jqtwn.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Boruto: Naruto Next Generations - \"Sayonara Moon Town\" by Scenarioart",
-        "videoId": "https://nl.catbox.video/koj673.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Charlotte - \"Yake Ochinai Tsubasa\" by Aoi Tada",
-        "videoId": "https://nl.catbox.video/alb85q.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Code Geass: Hangyaku no Lelouch - \"Yuukyou Seishunka\" by ALI PROJECT",
-        "videoId": "https://nl.catbox.video/gatvaa.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Darling in the FranXX - \"Escape\" by XX:me",
-        "videoId": "https://nl.catbox.video/jz4lge.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Dororo - \"Yamiyo\" by Eve",
-        "videoId": "https://nl.catbox.video/12t1uz.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Enen no Shouboutai - \"veil\" by Keina Suda",
-        "videoId": "https://nl.catbox.video/ilq13x.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Gekijouban Naruto Shippuuden: The Lost Tower - \"if\" by Kana Nishino",
-        "videoId": "https://nl.catbox.video/grnaf3.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Gekijouban Sword Art Online: Progressive - Hoshi Naki Yoru no Aria - \"Yuke\" by LiSA",
-        "videoId": "https://nl.catbox.video/qrq9zd.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Gokushufudou - \"Kiwami Meotokaidou\" by Uchikubi Gokumon Doukoukai",
-        "videoId": "https://nl.catbox.video/m07hhe.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Haikara-san ga Tooru Zenpen: Benio; Hana no 17-sai - \"Yume no Hate made\" by Saori Hayami",
-        "videoId": "https://nl.catbox.video/q0j9yz.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Higurashi no Naku Koro ni Kai - \"Taishou a\" by anNina",
-        "videoId": "https://nl.catbox.video/ryrkfk.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "JoJo no Kimyou na Bouken: Stone Ocean  - \"ROUNDABOUT\" by YES",
-        "videoId": "https://nl.catbox.video/xzgswj.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Kakuriyo no Yadomeshi - \"color\" by Manami Numakura",
-        "videoId": "https://nl.catbox.video/du3m37.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Kekkai Sensen - \"Sugar Song to Bitter Step\" by UNISON SQUARE GARDE",
-        "videoId": "https://nl.catbox.video/wi8uwx.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Kidou Senshi Gundam Seed - \"FIND THE WAY\" by Mika Nakashima",
-        "videoId": "https://nl.catbox.video/kqb8ie.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Kyoukai no Kanata - \"Daisy\" by STEREO DIVE FOUNDATION",
-        "videoId": "https://nl.catbox.video/jqdrtp.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Link Click - \"Overthink\" by Fan Ka",
-        "videoId": "I4BnU5Uqgsg",
-        "videoSource": VIDEOSOURCE.YOUTUBE,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Mahou Shoujo Madoka\u00e2\u02dc\u2026Magica - \"Magia\" by Kalafina",
-        "videoId": "https://nl.catbox.video/wumhq6.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Meitantei Conan: Konjou no Fist - \"BLUE SAPPHIRE\" by HIROOMI TOSAKA",
-        "videoId": "https://nl.catbox.video/7thn4w.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Mobile Suit Gundam: Iron-Blooded Orphans - \"Freesia\" by Uru",
-        "videoId": "https://nl.catbox.video/psny0v.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Naruto Shippuuden - \"Never Change\" by SHUN feat.Lyu:Lyu",
-        "videoId": "https://nl.catbox.video/8scn2f.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru - \"W:Wonder tale\" by Yukari Tamura",
-        "videoId": "https://nl.catbox.video/01ni8a.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Oregairu - \"Hello Alone -Yui Ballade-\" by Nao Touyama",
-        "videoId": "https://nl.catbox.video/8p0ugu.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Psycho-Pass - \"Namae no Nai Kaibutsu\" by EGOIST",
-        "videoId": "https://nl.catbox.video/tbrtsa.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Re:Zero kara Hajimeru Isekai Seikatsu - \"Anata no Shiranai Koto\" by Rie Murakawa",
-        "videoId": "https://nl.catbox.video/s4jor5.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Re:Zero kara Hajimeru Isekai Seikatsu - \"STYX HELIX\" by MYTH & ROID",
-        "videoId": "https://nl.catbox.video/g9irj2.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Sakura-sou no Pet na Kanojo - \"DAYS of DASH\" by Konomi Suzuki",
-        "videoId": "https://nl.catbox.video/k4m1h5.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Sarazanmai - \"Stand By Me\" by the peggies",
-        "videoId": "https://nl.catbox.video/t1jjvp.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Shin Evangelion Gekijouban :|| - \"One Last Kiss\" by Hikaru Utada",
-        "videoId": "https://nl.catbox.video/9mjfru.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Shingeki no Kyojin: The Final Season - \"Akuma no Ko\" by Ai Higuchi",
-        "videoId": "https://nl.catbox.video/fwrifz.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Shinsekai yori - \"Wareta Ringo\" by Risa Taneda",
-        "videoId": "https://nl.catbox.video/3f41oi.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Soul Eater - \"STRENGTH.\" by abingdon boys school",
-        "videoId": "https://nl.catbox.video/v8gaa1.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Steins;Gate - \"Skyclad no Kansokusha\" by Kanako Itou",
-        "videoId": "https://nl.catbox.video/etwejy.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Sword Art Online - \"Overfly\" by Luna Haruna",
-        "videoId": "https://nl.catbox.video/79tw9e.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Sword Art Online: Alicization - War of Underworld - \"unlasting\" by LiSA",
-        "videoId": "https://nl.catbox.video/cywd9d.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "To LOVE-Ru Darkness 2nd - \"Gardens\" by Mami Kawada",
-        "videoId": "https://nl.catbox.video/nt4xkg.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Tokyo Ghoul \u00e2\u02c6\u0161A - \"Kisetsu wa Tsugitsugi Shindeiku\" by amazarashi",
-        "videoId": "https://nl.catbox.video/eyhets.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Umineko no Naku Koro ni - \"la divina tragedia~Makyoku~\" by Jimang",
-        "videoId": "https://nl.catbox.video/t0rghm.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Vivy: Fluorite Eye's Song - \"Ensemble for Polaris\" by Licca & Noa",
-        "videoId": "https://nl.catbox.video/sdbirz.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
-    },
-    {
-        "name": "Youjo Senki - \"Los! Los! Los!\" by Aoi Yuuki",
-        "videoId": "https://nl.catbox.video/a08cwg.webm",
-        "videoSource": VIDEOSOURCE.CATBOX,
-        "opts": {
-            "singer": [
-                "AnimeEds"
-            ]
-        }
+  {
+    name: "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! - Magical Love by Chiaki Kobayashi & Ryouta Suzuki",
+    videoId: "https://ladist1.catbox.video/wrsfyk.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
     }
-]
+  },
+  {
+    name: "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord - Suki ga Rebechi by Rina Hidaka & Fairouz Ai",
+    videoId: "https://ladist1.catbox.video/4srg59.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Blue Exorcist: Shimane Illuminati Saga - Gakkyuu Nisshi by Mulasaki Ima",
+    videoId: "https://ladist1.catbox.video/rkbtnc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Dangers in My Heart Season 2 - Koishiteru Jibun Sura Aiserunda by Kohana Lam",
+    videoId: "https://ladist1.catbox.video/q2sd8k.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Bucchigiri?! - Love Je t'aime by Mahiru Coda",
+    videoId: "https://ladist1.catbox.video/l8aq69.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Cardfight!! Vanguard Divinez - Ryouyoku no Brilliance by Morfonica",
+    videoId: "https://ladist1.catbox.video/hn77tq.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Wrong Way to Use Healing Magic - Green jade by ChouCho",
+    videoId: "https://ladist1.catbox.video/b0lnlg.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Hokkaido Gals Are Super Adorable! - Wayawayawaa! by Asaka",
+    videoId: "https://ladist1.catbox.video/l0x6jm.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Duel Masters Win: Duel Wars - Abyss-Over by Chogakusei",
+    videoId: "https://ladist1.catbox.video/zx544b.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 4"
+      ]
+    }
+  },
+  {
+    name: "Delicious in Dungeon - Party!! by Ryokuoushoku Shakai",
+    videoId: "https://ladist1.catbox.video/05vq0f.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Doctor Elise: The Royal Lady with the Lamp - Listen by Maju Arai",
+    videoId: "https://ladist1.catbox.video/z1h3p5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Delusional Monthly Magazine - SCIENCE by Shunichi Toki",
+    videoId: "https://ladist1.catbox.video/uk3sn7.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "High Card Season 2 - Hakuchuumu by Raon",
+    videoId: "https://ladist1.catbox.video/t1eixu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Fire Hunter Season 2 - Dakishimete by Maaya Sakamoto",
+    videoId: "https://ladist1.catbox.video/q7ym42.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Tis Time for \"Torture,\" Princess - Ashita wa Ashita no Kaze ga Fuku by LEEVELLES",
+    videoId: "https://ladist1.catbox.video/clxh3e.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Fluffy Paradise - Fuwafuwa party Tsurarete happy by harmoe",
+    videoId: "https://ladist1.catbox.video/579azm.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Ishura - Hakka by Konomi Suzuki",
+    videoId: "https://ladist1.catbox.video/dvng15.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Bottom-Tier Character Tomozaki 2nd Stage - Dare ka ja Nai kara by DIALOGUE+",
+    videoId: "https://ladist1.catbox.video/5u81md.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Tales of Wedding Rings - Kokoro no Naka by AliA",
+    videoId: "https://ladist1.catbox.video/wkel3q.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Kingdom 5th Season - RULERS by Novel Core",
+    videoId: "https://ladist1.catbox.video/op5vmv.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Apothecary Diaries - Ai wa Kusuri by wacci",
+    videoId: "https://ladist1.catbox.video/365auo.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "Mr. Villain's Day Off - Kyuusoku Juuden by GLASGOW",
+    videoId: "https://ladist1.catbox.video/16060g.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Kienai by THE BINARY",
+    videoId: "https://ladist1.catbox.video/snk2z1.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Gushing Over Magical Girls - Toge Toge Sadistic by Enormita",
+    videoId: "https://ladist1.catbox.video/s4yyep.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Witch and the Beast - Hikari no Trill by Yoshino Nanjo",
+    videoId: "https://ladist1.catbox.video/7nh2ti.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc - Tokyo's Way! by Shiritsu Ebisu Chuugaku",
+    videoId: "https://ladist1.catbox.video/u9y1ts.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Chained Soldier - CHA\u221eIN by Maaya Uchida",
+    videoId: "https://ladist1.catbox.video/4hsql7.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Metallic Rouge - Scarlet by DAZBEE",
+    videoId: "https://ladist1.catbox.video/rq0udy.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Demon Prince of Momochi House - Aiyue by Muto",
+    videoId: "https://ladist1.catbox.video/za576t.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Seven Deadly Sins: Four Knights of the Apocalypse - Mikansei by zakinosuke.",
+    videoId: "https://ladist1.catbox.video/9jmxx9.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "The Unwanted Undead Adventurer - Keep Your Fire Burning by Mao Abe",
+    videoId: "https://ladist1.catbox.video/2052w0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "One Piece - Dear sunrise by Maki Otsuki",
+    videoId: "https://ladist1.catbox.video/bvi3dd.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 21"
+      ]
+    }
+  },
+  {
+    name: "Solo Leveling - request by krage",
+    videoId: "https://ladist1.catbox.video/3wl513.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Foolish Angel Dances with the Devil - Gift by Kaori Ishihara",
+    videoId: "https://ladist1.catbox.video/mje2jp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Pon no Michi - Good Luck Waker by halca",
+    videoId: "https://ladist1.catbox.video/16ixqf.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Ragna Crimson - Sora ni Shime Yuu by Watashi Kobayashi",
+    videoId: "https://ladist1.catbox.video/h6shn5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "The Weakest Tamer Began a Journey to Pick Up Trash - because by Tei",
+    videoId: "https://ladist1.catbox.video/fqlsuw.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "The Strongest Tank's Labyrinth Raids - Yume no Naka de by Ireisu",
+    videoId: "https://ladist1.catbox.video/jb7t6n.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Sasaki and Peeps - Aimai Girl by Aguri Oonishi",
+    videoId: "https://ladist1.catbox.video/ynrvuc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Sengoku Youko - Yuuyami no Uta by KEIKO",
+    videoId: "https://ladist1.catbox.video/h30i6n.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Shaman King Flowers - Dear Panta Rhei by Sumire Uesaka",
+    videoId: "https://ladist1.catbox.video/fmzzr6.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Shangri-La Frontier - Gajumaru ~Heaven in the Rain~ by ReoNa",
+    videoId: "https://ladist1.catbox.video/v37lw1.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2 - Michibiki, Sasagete by JYOCHO",
+    videoId: "https://ladist1.catbox.video/aqykdr.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Snack Basue - Olivia o Kikinagara by Rie Takahashi",
+    videoId: "https://ladist1.catbox.video/5mcb87.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "My Instant Death Ability is Overpowered - Haze by Anna Suzuki",
+    videoId: "https://ladist1.catbox.video/6ct4xn.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Synduality: Noir 2nd Season - Drifters by STEREO DIVE FOUNDATION",
+    videoId: "https://ladist1.catbox.video/3aen4r.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Tsukimichi: Moonlit Fantasy Season 2 - My Factor by Kent Itou",
+    videoId: "https://ladist1.catbox.video/iix9d6.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "Undead Unluck - Kono Ai ni Kanau Mon wa Nai by OKAMOTO'S",
+    videoId: "https://ladist1.catbox.video/5bi5gb.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 2"
+      ]
+    }
+  },
+  {
+    name: "Urusei Yatsura (2022) 2nd Season - Raiou by MAISONdes feat. 9Lana, SAKURAmoti",
+    videoId: "https://ladist1.catbox.video/gl5orh.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Wonderful Precure! - FUN\u2606FUN\u2606Wonderful DAYS! by Ami Ishii & Moeha Nochimoto",
+    videoId: "https://ladist1.catbox.video/97mfty.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "X Anime: Enjou Bokumetsu! Mahou Shoujo Aiko - Kyou kara Villain by Enogu\u00d7N\u03a6A\u00d7Solidbeats",
+    videoId: "https://files.catbox.moe/js7pgx.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Classroom of the Elite Season 3 - Konse Daikakumei by Yui Ninomiya",
+    videoId: "https://ladist1.catbox.video/8p3j68.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "A Sign of Affection - snowspring by ChoQMay",
+    videoId: "https://ladist1.catbox.video/dygyly.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Brave Bang Bravern - Souen no Shouzou by Ryouta Suzuki & Youhei Azakami",
+    videoId: "https://ladist1.catbox.video/6np1yc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Mobile Suit Gundam SEED Freedom - Sarigiwa no Romantics by See-Saw",
+    videoId: "https://files.catbox.moe/dgffy5.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Oomuro-ke Dear Sisters - Oogesa ni Ai to Yobunda by Rina Hidaka, Reo Kurachi, Ayasa Ito, Aoi Koga",
+    videoId: "HHPPDXAqn68",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Drowning Sorrows in Raging Fire - Koe no Kakera by Rei Yasuda",
+    videoId: "https://files.catbox.moe/sji0ch.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  },
+  {
+    name: "Heaven Official's Blessing Season 2 - Haru Omoi by krage",
+    videoId: "https://files.catbox.moe/e3808h.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Ending 1"
+      ]
+    }
+  }
+];
