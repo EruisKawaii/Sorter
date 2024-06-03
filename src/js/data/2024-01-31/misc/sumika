@@ -66,6 +66,7 @@ export const sumika = [
     opts: {
       singer: [
         "Opening 1"
-      ]
+            ]
     }
-  },
+  }
+];
