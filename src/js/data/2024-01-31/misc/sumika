@@ -1,4 +1,4 @@
-export const sumika = [
+export const animeEndings = [
   {
     name: "I Want To Eat Your Pancreas	Opening 1	Fanfare by sumika",
     videoId: "https://ladist1.catbox.video/66vyxz.mp3",
